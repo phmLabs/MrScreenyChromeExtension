@@ -1,2 +1,2 @@
-#Mr. Screeny Chrome Extenstion
+# Mr. Screeny Chrome Extenstion
 
